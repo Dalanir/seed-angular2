@@ -16,10 +16,10 @@ export class Book {
     books: BookModel[] = [];
 
     constructor() {
-        this.books.push(new BookModel('Livre 1', 'Auteur 1'));
-        this.books.push(new BookModel('Livre 2', 'Auteur 2'));
-        this.books.push(new BookModel('Livre 3', 'Auteur 3'));
-        this.books.push(new BookModel('Livre 4', 'Auteur 4'));
-        this.books.push(new BookModel('Livre 5', 'Auteur 5'));
+        this.books.push(new BookModel('Book 1', 'Author 1'));
+        this.books.push(new BookModel('Book 2', 'Author 2'));
+        this.books.push(new BookModel('Book 3', 'Author 3'));
+        this.books.push(new BookModel('Book 4', 'Author 4'));
+        this.books.push(new BookModel('Book 5', 'Author 5'));
     }
 }

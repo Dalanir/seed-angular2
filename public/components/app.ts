@@ -32,6 +32,6 @@ import {ListBooks} from './listBooks/listBooks';
 export class App {
     title: string;
     constructor() {
-        this.title = 'Angular2 App Seed';
+        this.title = 'App Seed Angular2';
     }
 }
