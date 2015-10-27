@@ -1,5 +1,5 @@
 {
-  "name": "angular2-seed",
+  "name": "seed-angular2",
   "version": "0.0.1",
   "description": "Seed for Angular 2's applications",
   "main": "server/server.js",
