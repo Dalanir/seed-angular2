@@ -1,0 +1,37 @@
+{
+  "name": "angular2-seed",
+  "version": "0.0.1",
+  "description": "Seed for Angular 2's applications",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "npm install && node ./node_modules/gulp/bin/gulp.js play"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.evolt.io:evolt-dev/app-angular2-seed.git"
+  },
+  "keywords": [
+    "seed",
+    "evolt"
+  ],
+  "author": "Jordan Lorho",
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "2.0.0-alpha.44",
+    "express": "^4.13.3",
+    "reflect-metadata": "^0.1.2",
+    "systemjs": "0.19.2"
+  },
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-changed": "^1.3.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-tslint": "^3.4.0",
+    "gulp-typescript": "^2.9.2",
+    "gulp-util": "^3.0.7",
+    "run-sequence": "^1.1.4",
+    "tsd": "^0.6.5",
+    "typescript": "^1.6.2"
+  }
+}
