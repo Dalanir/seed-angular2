@@ -15,7 +15,7 @@
     "evolt"
   ],
   "author": "Jordan Lorho",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "angular2": "2.0.0-alpha.44",
     "express": "^4.13.3",
